@@ -1,0 +1,24 @@
+distinct                                check
+order by                                check
+like '%bio'                             check
+select gpa*100;                         check
+as                                      check
+intersect / except                      check                               
+subqueries in where                     check
+NOT IN / IN                             check
+Exists / NOT exists                     check
+ALL / ANY                               (não dá para usar)
+subqueries in from                      check
+abs / max / min                         check 
+subqueries in select                    (faltou este)
+inner join on condition                 check
+Natural join                            check
+inner join using attributes             (faltou este)
+Left / Right full outer join            (faltou este)
+group by .. having                      check
+count                                   check
+NULL values                             check
+1 view                                  check
+Union                                   check
+
+3 triggers
