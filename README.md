@@ -8,4 +8,4 @@ Repository for educational purpose only.
 
 ## ES project
 - [Project](project/relatorio.pdf) 
-- __Project Grade:__ 17
+  - __Project Grade:__ 17
